@@ -1,0 +1,85 @@
+.headr_main {
+    position: relative;
+}
+.header__table {
+    border: 3px solid black;
+}
+.tr1 {
+    text-align: center;
+}
+.th1 {
+    border: 3px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 800;
+    background-color: rgba(121, 122, 122, 0.397);
+}
+.tr2 {
+    text-align: center;
+}
+.td1 {
+    border: 3px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 900;
+}
+.td2 {
+    border: 3px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 40px; 
+}
+.photo {
+    width: 150px;
+    height: 180px;
+}
+.td3 {
+    border: 3px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: right;
+    padding-right: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 200;
+    background-color: rgba(179, 179, 179, 0.274);
+}
+.tr3 {
+    text-align: center;
+}
+.td4 {
+    border: 3px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 1px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    font-weight: 600;
+    background-color: rgba(121, 122, 122, 0.397);
+}
+.td5 {
+    border: 3px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: x-large;
+    font-weight: 800;
+}
